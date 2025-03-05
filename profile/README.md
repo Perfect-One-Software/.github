@@ -1,6 +1,8 @@
 # Perfect One Software
 <img src="../logo/main.png" alt="Perfect One Software Logo" width="300"/>
+
 ## O nas
+
 Perfect One Software to firma specjalizująca się w tworzeniu dedykowanego oprogramowania, która od ponad 18 lat dostarcza kompleksowe rozwiązania IT dla biznesu. Naszą misją jest projektowanie i wdrażanie systemów informatycznych idealnie dopasowanych do indywidualnych potrzeb klientów.
 
 ## Nasze główne usługi
